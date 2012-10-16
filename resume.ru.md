@@ -36,7 +36,7 @@ WinForms, WPF, ASP.NET WebPages/WebForms/MVC/WebAPI
 C#, F#, JavaScript, Java, SQL
 
 ####Developer tools#####
-Visual Studio, NuGet, ReSharper, Blend, TFS, Git, Mercurial, Sumlime Text 2, PowerShell
+Visual Studio, NuGet, ReSharper, Blend, TFS, Git, Mercurial, Sublime Text 2, PowerShell
 
 ####Databases####
 SQL Server 2005 - 2012, SQL Server Compact Edition, MySQL
