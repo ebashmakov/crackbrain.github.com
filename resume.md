@@ -12,7 +12,7 @@ Education
 
 [2007 - 2011] 
 **Omsk state technical university** 
-*Bachelors in Automated sytems of data processing and control*
+*Bachelors in Automated systems of data processing and control*
 
 
 Work Experience
@@ -34,7 +34,7 @@ WinForms, WPF, ASP.NET WebPages/WebForms/MVC/WebAPI
 C#, F#, JavaScript, Java, SQL
 
 ####Developer tools#####
-Visual Studio, NuGet, ReSharper, Blend, TFS, Git, Mercurial, Sumlime Text 2, PowerShell
+Visual Studio, NuGet, ReSharper, Blend, TFS, Git, Mercurial, Sublime Text 2, PowerShell
 
 ####Databases####
 SQL Server 2005 - 2012, SQL Server Compact Edition, MySQL
