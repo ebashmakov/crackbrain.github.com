@@ -1,9 +1,10 @@
-Evgeniy Bashmakov
+Evgeniy Bashmakov 
 =================
+*Russia, Omsk*
 
-*Email: mail@bashmakov.info*
-
-*Skype: ebashmakov*
+- *Email: mail@bashmakov.info* 
+- *Skype: ebashmakov*
+- *Tel.: +7(908)791-45-27*
 
 
 Education
