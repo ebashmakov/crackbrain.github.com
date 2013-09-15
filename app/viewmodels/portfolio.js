@@ -13,8 +13,8 @@ define(['jquery', 'durandal/app', 'knockout'], function ($, app, ko) {
                 that.projects(data);
             });
         },
-        select: function(item) {
-            
+        select: function (item) {
+
         }
     };
 });
