@@ -1,0 +1,82 @@
+﻿.splash {
+    text-align: center;
+    margin: 10% 0 0 0;
+}
+
+.splash .message {
+    font-size: 5em;
+    line-height: 1.5em;
+    -webkit-text-shadow: rgba(0, 0, 0, 0.5) 0 0 15px;
+    text-shadow: rgba(0, 0, 0, 0.5) 0 0 15px;
+    text-transform: uppercase;
+}
+
+.splash .icon-spinner {
+    text-align: center;
+    display: inline-block;
+    font-size: 5em;
+    margin-top: 50px;
+}
+
+#main-title{
+    margin-right: 20px;
+}
+
+#header {
+    height: 100px;
+}
+
+#content {
+    margin-top: -40px;
+}
+
+.preview-image {
+    width: 200px;
+    min-height: 128px;
+}
+
+ul#social li a {
+    margin: 22px 5px;
+    padding: 10px;
+}
+
+a.icon-facebook, a.icon-twitter, a.icon-googleplus, a.icon-linkedin, a.icon-email {
+    height: 32px;
+    width: 32px;
+    text-indent: -9999px;
+}
+
+img.email {
+    margin-right: 10px;
+}
+
+a.icon-facebook {
+    background: url("../images/facebook.png") center no-repeat;
+}
+
+a.icon-twitter {
+    background: url("../images/twitter.png") center no-repeat;
+}
+
+a.icon-googleplus {
+    background: url("../images/gplus.png") center no-repeat;
+}
+
+a.icon-email {
+    background: url("../images/email.png") center no-repeat;
+}
+
+a.icon-linkedin {
+    background: url("../images/linkedin.png") center no-repeat;
+}
+
+.skype-status{
+    margin: 0;
+    padding: 0 !important;
+    border: none;
+    height: 32px;
+}
+
+footer {
+    margin-top: 50px;
+}

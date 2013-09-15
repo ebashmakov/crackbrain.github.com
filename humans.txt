@@ -1,0 +1,10 @@
+/* OWNER */ 
+Site: bashmakov.info
+Name: Evgeniy Bashmakov
+Location: Omsk, Russia
+Twitter: ebashmakov
+
+/* SITE */                        
+Last update: 15/09/2013    
+Standards: HTML5, CSS3
+Software: Durandal, Knockout.js

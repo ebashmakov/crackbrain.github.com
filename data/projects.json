@@ -1,0 +1,66 @@
+[
+	{
+		"name" : "Academium Gradebook",
+		"writtenIn" : ".NET/C#, ASP.NET MVC/WebApi, Knockout, Zepto.js, Underscore.js, History.js",
+		"scope" : "A web application for teachers to add work tasks and manage student assessments and grades.",
+		"tags" : "SPA, Web API, REST",
+		"preview" : "https://dl.dropboxusercontent.com/u/5522431/Projects/Images/Gradebook/preview.png",
+		"url" : "http://academiumgradebook.apphb.com/"
+	},
+	{
+		"name" : "Product Management",
+		"writtenIn" : ".NET/C#, ASP.NET WebApi, Knockout, Twitter Bootstrap",
+		"scope" : "Demo project to demonstrate my skills",
+		"tags" : "SPA, Web API, Ajax",
+		"preview" : "https://dl.dropboxusercontent.com/u/5522431/Projects/Images/ProductManagement/preview.png",
+		"url" : "http://productmanager.apphb.com/"
+	},
+	{
+		"name" : "Mvc.Html.Bootstrap",
+		"writtenIn" : ".NET/C#, ASP.NET",
+		"scope" : "ASP.NET MVC Helpers for Twitter Bootstrap",
+		"tags" : "ASP.NET MVC Helpers, Twitter Bootstrap, NuGet package",
+		"preview" : "https://nuget.org/Content/Images/packageDefaultIcon.png",
+		"url" : "http://www.nuget.org/packages/Mvc.Html.Bootstrap/"
+	},
+	{
+		"name" : "VirtualOrder",
+		"writtenIn" : ".NET/C#, ASP.NET MVC4, WPF, SQL Server, SQL Server CE, Entity Framework, Ninject",
+		"scope" : "Compact CRM-system",
+		"tags" : "CRM, SFA, E-commerce",
+		"preview" : "https://dl.dropboxusercontent.com/u/5522431/Projects/Images/VirtualOrder/preview.png",
+		"url" : "https://bitbucket.org/crackbrain/virtualorder"
+	},
+	{
+		"name" : "QueueingModel",
+		"writtenIn" : ".NET/C#, Windows Forms, CsvHelper",
+		"scope" : "QueueingModel is used to approximate a real queueing situation or system, so the queueing behaviour can be analysed mathematically.",
+		"tags" : "Course project, Discrete event simulation, Queueing theory",
+		"preview" : "https://dl.dropboxusercontent.com/u/5522431/Projects/Images/QueueingModel/preview.png",
+		"url" : "https://bitbucket.org/crackbrain/queueingmodel"
+	},
+	{
+		"name" : "GammaXoringCipher",
+		"writtenIn" : ".NET/C#, Windows Forms",
+		"scope" : "Implementation of XOR encryption algorithm GOST 28147-89.",
+		"tags" : "Course project, PIM, Open source, Dead",
+		"preview" : "https://dl.dropboxusercontent.com/u/5522431/Projects/Images/GammaXoringCipher/preview.png",
+		"url" : "https://bitbucket.org/crackbrain/gammaxoringcipher"
+	},
+	{
+		"name" : "GroupOrganizer",
+		"writtenIn" : "Java, Swing",
+		"scope" : "Personal information manager with group system.",
+		"tags" : "Course project, Encryption, GOST 28147-89",
+		"preview" : "https://dl.dropboxusercontent.com/u/5522431/Projects/Images/GroupOrganizer/preview.png",
+		"url" : "https://bitbucket.org/crackbrain/eventer"
+	},
+	{
+		"name" : "Diligences",
+		"writtenIn" : "C, Linux Console Application, Threading with mutex",
+		"scope" : "Implementation of threading with mutex.",
+		"tags" : "Course project, Fun, lulz",
+		"preview" : "https://dl.dropboxusercontent.com/u/5522431/Projects/Images/Diligences/preview.png",
+		"url" : "https://bitbucket.org/crackbrain/diligences"
+	}
+]

@@ -1,0 +1,38 @@
+﻿<div id="header">
+    <header id="main-title" class="pull-left">
+        <h1>EVGENIY BASHMAKOV</h1>
+    </header>            
+    <div>
+        <ul id="social" class="nav nav-pills" data-bind="with: links">
+            <li>
+                <a rel="me" data-bind="attr: { href: gplus }" class="icon-googleplus" title="Plus me" alt="Google+">Google+</a>
+            </li>
+            <li>
+                <a rel="me" data-bind="attr: { href: twitter }" class="icon-twitter" title="Follow me" alt="Twitter">Twitter</a>
+            </li>
+            <li>
+                <a rel="me" data-bind="attr: { href: facebook }" class="icon-facebook" title="Like me" alt="Facebook">Facebook</a>
+            </li>
+            <li>
+                <script type="text/javascript" src="http://download.skype.com/share/skypebuttons/js/skypeCheck.js"></script>
+                <a rel="me" title="Call me" href="skype:ebashmakov?add" class="skype-status">
+                    <img src="http://mystatus.skype.com/bigclassic/ebashmakov" class="skype-status" alt="My status" />
+                </a>
+            </li>
+        </ul>
+    </div>                
+</div>
+
+<div class="row"> 
+    <div id="navigation" class="col-md-2">
+        <ul class="nav nav-pills nav-stacked" data-bind="foreach: router.navigationModel">
+            <li data-bind="css: { active: isActive }">
+                <a data-bind="attr: { href: hash }, html: title"></a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="col-md-10">
+        <div id="content" data-bind="router: { transition:'entrance', cacheViews:true }"></div>
+    </div>
+</div>

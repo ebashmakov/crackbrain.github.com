@@ -1,0 +1,17 @@
+<section>
+    <h2 class="page-header">My projects</h2>
+
+    <table class="table table-hover" data-bind="foreach: projects">
+        <tr>
+            <td style="padding-top: 20px;">
+                <img class="img-thumbnail preview-image" data-bind="attr: {src: preview, alt: name}"/>
+            </td>
+            <td>
+                <h3><a data-bind="attr: { href: url }, text: name"></a></h3>
+                <p><strong data-bind="text: writtenIn"></strong></p>
+                <p data-bind="text: scope"></p>
+                <p>Tags: <em data-bind="text: tags"></em></p>
+            </td>
+        </tr>
+    </table>
+</section>
