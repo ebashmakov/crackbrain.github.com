@@ -1,5 +1,8 @@
 Евгений Башмаков
 =================
+**Senior .NET Developer**
+
+*Россия, Омск*
 
 - *Email: mail@bashmakov.info*
 - *Skype: ebashmakov*
@@ -16,12 +19,12 @@
 *факультет информационных технологий и компьютерных систем*, 
 *кафедра "Автоматизированные системы обработки информации и управления"*
 
-
 Опыт работы
 -----------
 
-Фрилансер (в основном веб-разработчик) с 2011 года
+[2011 - 2013] Фрилансер (веб-разработчик)
 
+[2013 - 2014] Senior .NET Developer at Luxoft
 
 Технический опыт
 ----------------
@@ -30,34 +33,34 @@
 построенных на ASP.NET MVC/WebAPI (back end) and jQuery/knockoutJS (front end).
 
 ####Application frameworks####
-WinForms, WPF, ASP.NET WebPages/WebForms/MVC/WebAPI
+WinForms, WPF, WCF, ASP.NET WebPages/WebForms/MVC/WebAPI
 
 ####Programming languages####
-C#, F#, JavaScript, Java, SQL
+C#, F#, JavaScript, Java, T-SQL
 
 ####Developer tools#####
-Visual Studio, NuGet, ReSharper, Blend, TFS, Git, Mercurial, Sublime Text 2, PowerShell
+Visual Studio, NuGet, ReSharper, Blend, TFS, SVN, Git, Mercurial, Sublime Text 2, PowerShell
 
 ####Databases####
-SQL Server 2005 - 2012, SQL Server Compact Edition, MySQL
+SQL Server 2005 - 2012, SQL Server Compact Edition, SQL Server Reporting Services, MySQL
 
 ####Libraries & packages####
-**C#**: NUnit, NAnt, NLog, Ninject, EntityFramework, AutoMappper, Autofac, Lucene.NET, ADO.NET
+**C#**: EntityFramework, Ninject, Autofac, AutoMappper, Lucene.NET, NUnit, NAnt, NLog, ADO.NET
 
-**JS**: jQuery, Modernizr, KnockoutJS, RequireJS, Underscore
+**JS**: jQuery, Durandal, KnockoutJS, RequireJS, Underscore, Modernizr, Twitter Bootstrap
 
 ####Content Management Systems####
 Orchard, AtomicCms
 
 ####Markup languages####
-HTML\CSS (HTML5, LESS), XML, JSON, XAML, Razor view engine
-
+HTML\CSS (HTML5, LESS), XML, JSON, XAML, Razor (.cshtml)
 
 Интересы
 --------
 
 * Функциональное программирование
-* Веб-службы, REST, OAuth, Single page applications
+* Веб-службы, REST, OAuth
+* Single page applications
 * Поисковые системы
 * Облачные вычисления
 * UX, UI design
