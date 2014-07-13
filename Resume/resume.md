@@ -43,6 +43,7 @@ Windows server, IIS
 
 ####Libraries & packages####
 **C#**: EntityFramework, Ninject, Autofac, AutoMappper, Lucene.NET, NUnit, NAnt, NLog, ADO.NET
+
 **JS**: jQuery, Durandal, KnockoutJS, RequireJS, Underscore, Modernizr, Twitter Bootstrap
 
 ####Content Management Systems####
