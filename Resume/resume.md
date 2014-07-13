@@ -1,5 +1,7 @@
 Evgeniy Bashmakov 
 =================
+**Senior .NET Developer**
+
 *Russia, Omsk*
 
 - *Email: mail@bashmakov.info* 
@@ -16,9 +18,9 @@ Education
 Work Experience
 ---------------
 
-Freelancer (Web developer) 2011 - 2013
+[2011 - 2013] Freelancer (Web developer)
 
-Senior .NET Developer at Luxoft 2013 - 2014
+[2013 - 2014] Senior .NET Developer at Luxoft
 
 Technical Experience
 --------------------
