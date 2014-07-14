@@ -25,7 +25,7 @@ Work Experience
 Technical Experience
 --------------------
 
-Main specialization - rich internet applications 
+Main specialization — rich internet applications 
 
 based on ASP.NET MVC/WebAPI (back end) and jQuery/knockoutJS (front end).
 
@@ -68,6 +68,6 @@ Interests
 
 Additional information
 ----------------------
-- My personal website - [bashmakov.info](http://bashmakov.info)
+- My personal website — [bashmakov.info](http://bashmakov.info)
 - English Level: fluent in written and good verbal skills
 - Developer profiles: [stackoverflow](http://stackoverflow.com/users/536900/crackbrain "stackoverflow"), [github](https://github.com/crackbrain "github"), [bitbucket](https://bitbucket.org/crackbrain/ "bitbucket")
