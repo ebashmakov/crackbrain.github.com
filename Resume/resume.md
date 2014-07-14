@@ -53,7 +53,7 @@ Orchard, AtomicCms, Umbraco, eCommerce
 HTML\CSS (HTML5, LESS), XML, JSON, XAML, Razor (.cshtml)
 
 ####Developer tools#####
-Visual Studio, Blend, ReSharper, NuGet, SVN, Git, Mercurial, TFS, JIRA, Sublime Text 2, PowerShell
+Visual Studio, Blend, ReSharper, NuGet, SVN, Git, Mercurial, TFS, JIRA, TeamCity, YouTrack, Sublime Text 2, PowerShell
 
 Interests
 ---------
